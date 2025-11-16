@@ -2,5 +2,7 @@
 On every Sunday, bring papers and lectures sharing and interpretation‌.
 |Date|Lecturer|Title|Paper/Lecture|Address|Slides|
 |---|---|---|---|---|---|
-|Nov 9,2025|Yixuan Wan|Dialogue Benchmark Generation from Knowledge Graphs with Cost-Effective Retrieval-Augmented LLMs|Paper|[Paper PDF](https://arxiv.org/pdf/2501.09928)|[slide address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Nov-9-2025/Paper.pdf)|
-|Nov 9,2025|Kaiwen Wang|Language Modeling from Scratch Lecture 7 & Lecture 8|Lecture|[Lecture Videos](https://www.youtube.com/watch?v=l1RJcDjzK8M&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&index=7)|[Slide address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Nov-9-2025/Lecture.pptx)|
+|Nov 16,2025|Hongda Zeng|Language Modeling from Scratch Lecture 9 & Lecture 11:Scaling Laws|Lecture|[Lecture Videos](https://www.youtube.com/watch?v=6Q-ESEmDf4Q&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&index=9)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Nov-16-2025/Lecture.pptx)|
+|Nov 16,2025|Zhipeng Wen|LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration|Paper|[Paper PDF](https://arxiv.org/pdf/2411.05844)|[Slide Adress](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Nov-16-2025/Paper.pdf)|
+|Nov 9,2025|Yixuan Wan|Dialogue Benchmark Generation from Knowledge Graphs with Cost-Effective Retrieval-Augmented LLMs|Paper|[Paper PDF](https://arxiv.org/pdf/2501.09928)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Nov-9-2025/Paper.pdf)|
+|Nov 9,2025|Kaiwen Wang|Language Modeling from Scratch Lecture 7 & Lecture 8|Lecture|[Lecture Videos](https://www.youtube.com/watch?v=l1RJcDjzK8M&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&index=7)|[Slide Address](https://github.com/whut-group-meeting/WHUT-Weekly-Sharing/blob/main/Slides/Nov-9-2025/Lecture.pptx)|
